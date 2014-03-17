@@ -5,7 +5,7 @@ require 'tiny-flash/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "tiny-flash"
-  spec.version       = Tiny::Flash::VERSION
+  spec.version       = TinyFlash::VERSION
   spec.authors       = ["Rabsztok"]
   spec.email         = ["rabsztok@gmail.com"]
   spec.summary       = %q{Simplified redirection with flash message for Rails applications}

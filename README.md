@@ -1,6 +1,6 @@
 # Tiny::Flash
 
-TODO: Write a gem description
+Pretty methods to simplify flash message usage in Rails applications
 
 ## Installation
 
